@@ -527,7 +527,7 @@ For example, suppose we have the following set of classes:
 	:::php
 	<?php
 
-	class Page extends SiteTree {
+	class NewsSection extends SiteTree {
 
 	}
 
